@@ -3,8 +3,6 @@
 Corpus to cluster its topic with LDA: 
 https://github.com/yutkin/Lenta.Ru-News-Dataset/releases/download/v1.0/lenta-ru-news.csv.gz (RU) 
 
-SETUP:
-The copus file is stored in GoogleDrive.
 
 
 
